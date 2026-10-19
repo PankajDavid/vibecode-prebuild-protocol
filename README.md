@@ -4,7 +4,7 @@
 
 Works with Claude Code, Cursor, Windsurf, Lovable, Bolt, Replit, GitHub Copilot, ChatGPT and Gemini.
 
-By **Pankaj David** · [Vibecode with Pankaj on YouTube](https://www.youtube.com/@davidpankaj2010)
+By **Pankaj David** · [Vibecode with Pankaj on YouTube](https://www.youtube.com/@vibecodewithpankaj)
 
 ---
 
@@ -66,6 +66,6 @@ An AI audit catches common mistakes. **It is not a professional security audit a
 
 ## Licence
 
-[CC BY 4.0](LICENSE). Use it, change it, share it, use it commercially. Just credit **Pankaj David / [Vibecode with Pankaj](https://www.youtube.com/@davidpankaj2010)** with a link back to this repo.
+[CC BY 4.0](LICENSE). Use it, change it, share it, use it commercially. Just credit **Pankaj David / [Vibecode with Pankaj](https://www.youtube.com/@vibecodewithpankaj)** with a link back to this repo.
 
 Copyright © 2026 Pankaj David. This material is provided as is, without warranty, and is not a professional security audit or legal or compliance advice.
