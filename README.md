@@ -2,6 +2,8 @@
 
 **Plan before you prompt.** Six free documents that stop AI coding tools from building the wrong thing, the unsafe thing, or a thing nobody can maintain.
 
+🎥 **[Watch the 5-minute walkthrough](https://www.youtube.com/watch?v=jjwpRMOP-Lg)**: how a feedback loop and these documents took a hackathon entry from 91.55 to 100/100.
+
 Works with Claude Code, Cursor, Windsurf, Lovable, Bolt, Replit, GitHub Copilot, ChatGPT and Gemini.
 
 By **Pankaj David** · [Vibecode with Pankaj on YouTube](https://www.youtube.com/@vibecodewithpankaj)
